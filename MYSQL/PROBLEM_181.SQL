@@ -19,7 +19,7 @@ Approach:
 
   * If employee salary is greater
     than manager salary,
-    include the employee's name
+    include the employees name
     in the result.
 
 Query:
