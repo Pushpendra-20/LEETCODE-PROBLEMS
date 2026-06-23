@@ -20,6 +20,7 @@ Approach:
        left half to find the first
        occurrence.
 
+
   2. Right Boundary Search
 
      * When target is found,
